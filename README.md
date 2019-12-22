@@ -1,4 +1,6 @@
 # Javascript Code Review Checklist
 
-General
-[ ] Do stuff
+## General
+
+- [ ] Do stuff
+- [ ] Do more stuff
