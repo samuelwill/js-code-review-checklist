@@ -1,6 +1,10 @@
 # Javascript Code Review Checklist
 
-## General
+### General
 
 - [ ] Do stuff
 - [ ] Do more stuff
+
+### Performance and Scalability
+
+- [ ] Don't make it slow
