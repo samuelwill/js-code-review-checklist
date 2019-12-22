@@ -1,2 +1,2 @@
-# js-code-review-checklist
+# Javascript Code Review Checklist
 Javascript code review checklist
