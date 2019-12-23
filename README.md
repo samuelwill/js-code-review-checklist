@@ -11,7 +11,7 @@
 - [ ] Any architecture / design concerns have been logged to a Developer Backlog
 
 ### Maintainence
-- [ ] Functions, classes and modules are small, focused and follow the Single Responsibility Principle
+- [ ] Modules, classes and functions are small, focused and follow the Single Responsibility Principle
 - [ ] Modules, classes, functions and variables have clear, descriptive names
 - [ ] Clear, descriptive variable, method and class names are used instead of comments
 - [ ] Higher order function predicates have been extracted and given great names
