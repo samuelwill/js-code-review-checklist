@@ -8,7 +8,6 @@
 - [ ] `Object.keys`, `Object.values`, `Object.entries` are used to iterate over objects
 - [ ] Spread operator `…` is used to copy arrays
 - [ ] Layouts are achieved using `Flexbox` or `Grid`, not Javascript
-- [ ] New UIs are `responsive` and usable at our smallest supported view port size of 1024 x 768px
 - [ ] Any architecture / design concerns have been logged to a Developer Backlog
 
 ### Maintainence
