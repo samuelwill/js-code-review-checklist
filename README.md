@@ -13,7 +13,7 @@
 ### Maintainence
 - [ ] Modules, classes and functions are small, focused and follow the Single Responsibility Principle
 - [ ] Modules, classes, functions and variables have clear, descriptive names
-- [ ] Clear, descriptive variable, method and class names are used instead of comments
+- [ ] Clear, descriptive class, method and variable names are used instead of comments
 - [ ] Higher order function predicates have been extracted and given great names
 - [ ] Functions only operate at one level of abstraction
 - [ ] Complex conditionals have been extracted into well-named methods
