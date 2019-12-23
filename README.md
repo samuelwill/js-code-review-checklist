@@ -31,3 +31,4 @@
 - [ ] New functionality has been profiled used the Chrome “Performance” tab to check for long running scripts and layout thrashing
 - [ ] `async` / `await` is used over promises or callbacks
 - [ ] Event delegation has been used to reduce the number of DOM event listeners
+- [ ] Event listeners have been removed at teardown
