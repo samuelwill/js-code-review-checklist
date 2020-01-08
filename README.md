@@ -11,8 +11,8 @@
 - [ ] Any architecture / design concerns have been logged to a Developer Backlog
 
 ### Maintainence
-- [ ] Modules, classes and functions are small, focused and follow the Single Responsibility Principle
-- [ ] Modules, classes, functions and variables have clear, descriptive names
+- [ ] Functions, classes and modules are small, focused and follow the Single Responsibility Principle
+- [ ] Variables, functions, classes and modules have clear, descriptive names
 - [ ] Clear, descriptive class, method and variable names are used instead of comments
 - [ ] Higher order function predicates have been extracted and given great names
 - [ ] Functions only operate at one level of abstraction
@@ -29,6 +29,6 @@
 - [ ] Lists have been virtualized
 - [ ] New layouts are achieved using `Flexbox` or `Grid`
 - [ ] New functionality has been profiled used the Chrome “Performance” tab to check for long running scripts and layout thrashing
-- [ ] `async` / `await` is used over promises or callbacks
+- [ ] `async` / `await` using promises is preferred over callbacks
 - [ ] Event delegation has been used to reduce the number of DOM event listeners
 - [ ] Event listeners have been removed at teardown
